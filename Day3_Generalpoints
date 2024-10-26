@@ -32,3 +32,5 @@ Dictionary :
       1) We can convert list or tuple to dictionary by using 
                         dict(zip())
     
+Set: 
+      Set and Dict looks same as it holds{}; but in dict we have key and value; but in set we have only value
