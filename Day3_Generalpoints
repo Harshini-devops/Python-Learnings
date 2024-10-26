@@ -28,3 +28,7 @@ Tuple:
       1) To create tuple () is defined; even if () not there not a problem
       2) It should have ,(comma) seperator to define it as tuple.
 
+Dictionary :
+      1) We can convert list or tuple to dictionary by using 
+                        dict(zip())
+    
