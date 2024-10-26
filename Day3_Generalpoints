@@ -33,4 +33,8 @@ Dictionary :
                         dict(zip())
     
 Set: 
-      Set and Dict looks same as it holds{}; but in dict we have key and value; but in set we have only value
+      1) Set and Dict looks same as it holds{}; but in dict we have key and value; but in set we have only value
+      2) Set is both mutable and unmutable : existing value inside set cant be changed but new value can get inserted
+      3) Set dont have indexing and slicing; hence existing value we cant denote to make changes
+      4) Set cant contain duplicate values; it takes only unique
+      5) Set is unordered
