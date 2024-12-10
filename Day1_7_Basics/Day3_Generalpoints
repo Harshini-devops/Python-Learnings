@@ -1,0 +1,40 @@
+Index:
+      1) In Indexing we can change, delete, insert or modify ---> only 1 element at a time
+     
+*********************************************************************************************************************************************************************************************************************
+Slicing:
+        1) In Slicing we can change, delete, insert or modify ---> multiple element at a time
+
+*********************************************************************************************************************************************************************************************************************
+List:
+        1)  List has 3 access :
+                * Access
+                * Change
+                * Delete
+        2) List can do reverse
+        3) In list if we need to modify existing values, we can do it, also if we give more data it will modify and append 
+           This can be done with list slicing
+example Existing [10,20,30,40,50,60,70]; now I have to change first 4 values
+New[1,2,3,4,5,6,7] Note!! here instead of 4 values I have given 7 values
+O/p: [1,2,3,4,5,6,7,50.60,70] ----- it modified and appended
+
+
+*********************************************************************************************************************************************************************************************************************
+String
+       1) String cant do reverse
+
+
+Tuple:
+      1) To create tuple () is defined; even if () not there not a problem
+      2) It should have ,(comma) seperator to define it as tuple.
+
+Dictionary :
+      1) We can convert list or tuple to dictionary by using 
+                        dict(zip())
+    
+Set: 
+      1) Set and Dict looks same as it holds{}; but in dict we have key and value; but in set we have only value
+      2) Set is both mutable and unmutable : existing value inside set cant be changed but new value can get inserted
+      3) Set dont have indexing and slicing; hence existing value we cant denote to make changes
+      4) Set cant contain duplicate values; it takes only unique
+      5) Set is unordered
